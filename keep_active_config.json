@@ -1,0 +1,7 @@
+{
+  "interval": 10,
+  "activity_type": "mouse",
+  "prevent_sleep": true,
+  "auto_start": false,
+  "log_activity": true
+}
